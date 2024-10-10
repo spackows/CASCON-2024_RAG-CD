@@ -1,2 +1,2 @@
-# Title
-Supporting material for a paper presentation at CASCON 2024
+# RAG: A Content Design Perspective
+Supporting material for posters at CASCON 2024 all about retrieval-augmented generation (RAG) from a Content Design perspective.
